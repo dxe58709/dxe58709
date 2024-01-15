@@ -6,7 +6,13 @@ I am also a graduate student at [Kwansei Gakuin University](https://www.kwansei.
 <br>I graduated from [Kwansei Gakuin University](https://www.kwansei.ac.jp/index.html)🌙🎓(KGU)[2019-2023].　
 <br>Bachelor of Science and Technology🥼🧪.
 
-## Status
+## 42Tokyo Status
+
+<a href="https://github.com/Coday-meric/badge42">
+<img src="https://badge42.coday.fr/api/v2/clrema1zk209101p4pn6udhxt/stats?cursusId=21&coalitionId=310" alt="nsakanou's 42 stats" />
+</a>
+
+## Github status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxe58709&show_icons=true&theme=dracula)
 <br>
