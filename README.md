@@ -1,5 +1,7 @@
 # Hello!
-自己紹介
+I am a software engineering student at [École 42](https://42.fr/)🇫🇷, 
+[Tokyo campus](https://42tokyo.jp/)🇯🇵.
+I am also a graduate student at [Kwansei Gakuin University](https://www.kwansei.ac.jp/index.html)🌙 (KGU). M.S. in Science and Technology. Organic chemistry laboratory👩‍🔬🔬.  I graduated from [Kwansei Gakuin University](https://www.kwansei.ac.jp/index.html)🌙 (2019-2023). B.S. in Science and Technology. Department of Applied Chemistry for Environonment🥼🧪.
 
 ## Status
 
