@@ -1,9 +1,10 @@
 # Hello!🌿
-I am a software engineering student💻 at [École 42](https://42.fr/)🇫🇷, 
+🚀I am a software engineering student💻 at [École 42](https://42.fr/)🇫🇷, 
 [Tokyo campus](https://42tokyo.jp/)🇯🇵🗼.<br>
-I am also a graduate student at [Kwansei Gakuin University](https://www.kwansei.ac.jp/index.html)🌙 (KGU)[2023-].
-<br>  👩‍🔬🔬Master of Science and Technology, Department of Applied Chemistry for Environonment, Organic chemistry laboratory. 
-<br>I graduated from [Kwansei Gakuin University](https://www.kwansei.ac.jp/index.html)🌙🎓(KGU)[2019-2023]. Bachelor of Science and Technology🥼🧪.
+I am also a graduate student at [Kwansei Gakuin University](https://www.kwansei.ac.jp/index.html)🌙 (KGU).　
+<br>M.S. in Science and Technology, Department of Applied Chemistry for Environonment, Organic chemistry laboratory👩‍🔬🔬. 
+<br>🎓I graduated from [Kwansei Gakuin University](https://www.kwansei.ac.jp/index.html)🌙(KGU)[2019-2023].　
+<br>B.S. in Science and Technology🥼🧪.
 
 ## Status
 
