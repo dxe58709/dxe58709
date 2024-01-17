@@ -15,8 +15,11 @@ nsakanou@student.42tokyo.jp
 <img src="https://badge42.coday.fr/api/v2/clrema1zk209101p4pn6udhxt/stats?cursusId=21&coalitionId=310" alt="nsakanou's 42 stats" />
 </a>
 
-## Github status
+## Github Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxe58709&show_icons=true&theme=dracula)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxe58709)](https://github.com/dxe58709/github-readme-stats)
+<p justify="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dxe58709&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxe58709" />
+</p>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dxe58709)](https://github.com/anuraghazra/github-readme-stats)
