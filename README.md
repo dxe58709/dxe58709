@@ -15,6 +15,15 @@ nsakanou@student.42tokyo.jp
 <img src="https://badge42.coday.fr/api/v2/clrema1zk209101p4pn6udhxt/stats?cursusId=21&coalitionId=310" alt="nsakanou's 42 stats" />
 </a>
 
+## IDE
+<p align="left">
+</a>
+<a href='' target="_blank"><img alt='VIM' src='https://img.shields.io/badge/Vim-100000?style=flat-square&logo=VIM&logoColor=FFFFFF&labelColor=EE1F35&color=EE1F35'/></a>
+</a>
+<a href='' target="_blank"><img alt='Visual Studio Code' src='https://img.shields.io/badge/Visual_Studio Code-100000?style=flat-square&logo=Visual Studio Code&logoColor=FFFFFF&labelColor=007ACC&color=007ACC'/></a>
+</a>
+</p>
+
 ## Github Status
 
 <p justify="center">
