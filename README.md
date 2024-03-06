@@ -30,5 +30,3 @@ nsakanou@student.42tokyo.jp
   <img src="https://github-readme-stats.vercel.app/api?username=dxe58709&show_icons=true&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxe58709" />
 </p>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dxe58709)](https://github.com/anuraghazra/github-readme-stats)
